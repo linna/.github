@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center" style="font-size:64px">Linna tools</h1>
+<h1 align="center">Linna tools</h1>
 
 <p align="center">
   A set of packages written using the features which PHP made available in latest versions and the best coding practices. The project started for learning purposes but now, aims to go further.
